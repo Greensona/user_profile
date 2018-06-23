@@ -7,3 +7,7 @@ https://codelabs.developers.google.com/codelabs/flutter/#0
 https://flutter.institute/tag/tutorials/
 
 https://github.com/Solido/awesome-flutter/blob/master/README.md
+
+## Install flutter
+on MacOS
+https://flutter.io/setup-macos/
